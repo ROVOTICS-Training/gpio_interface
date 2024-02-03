@@ -1,0 +1,22 @@
+running egg_info
+writing build/gpio_interface/gpio_interface.egg-info/PKG-INFO
+writing dependency_links to build/gpio_interface/gpio_interface.egg-info/dependency_links.txt
+writing entry points to build/gpio_interface/gpio_interface.egg-info/entry_points.txt
+writing requirements to build/gpio_interface/gpio_interface.egg-info/requires.txt
+writing top-level names to build/gpio_interface/gpio_interface.egg-info/top_level.txt
+reading manifest file 'build/gpio_interface/gpio_interface.egg-info/SOURCES.txt'
+writing manifest file 'build/gpio_interface/gpio_interface.egg-info/SOURCES.txt'
+running build
+running build_py
+copying gpio_interface/gpio_interface.py -> /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface
+running install
+running install_lib
+copying /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface/gpio_interface.py -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface
+byte-compiling /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface/gpio_interface.py to gpio_interface.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/gpio_interface/gpio_interface.egg-info to /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gpio_interface script to /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/gpio_interface
+writing list of installed files to '/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/install.log'

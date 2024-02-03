@@ -1,0 +1,3 @@
+[console_scripts]
+gpio_interface = gpio_interface.gpio_interface:main
+

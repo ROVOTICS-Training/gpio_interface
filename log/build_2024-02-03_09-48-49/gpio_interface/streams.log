@@ -1,0 +1,37 @@
+[8.971s] Invoking command in '/home/jhsrobo/pcorews/src/gpio_interface': PYTHONPATH=/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/prefix_override:/home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/gpio_interface build --build-base /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build install --record /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/install.log --single-version-externally-managed
+[11.413s] running egg_info
+[11.417s] creating build/gpio_interface/gpio_interface.egg-info
+[11.419s] writing build/gpio_interface/gpio_interface.egg-info/PKG-INFO
+[11.421s] writing dependency_links to build/gpio_interface/gpio_interface.egg-info/dependency_links.txt
+[11.422s] writing entry points to build/gpio_interface/gpio_interface.egg-info/entry_points.txt
+[11.424s] writing requirements to build/gpio_interface/gpio_interface.egg-info/requires.txt
+[11.425s] writing top-level names to build/gpio_interface/gpio_interface.egg-info/top_level.txt
+[11.427s] writing manifest file 'build/gpio_interface/gpio_interface.egg-info/SOURCES.txt'
+[11.439s] reading manifest file 'build/gpio_interface/gpio_interface.egg-info/SOURCES.txt'
+[11.447s] writing manifest file 'build/gpio_interface/gpio_interface.egg-info/SOURCES.txt'
+[11.449s] running build
+[11.451s] running build_py
+[11.452s] creating /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build
+[11.453s] creating /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib
+[11.454s] creating /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface
+[11.455s] copying gpio_interface/gpio_interface.py -> /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface
+[11.457s] copying gpio_interface/__init__.py -> /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface
+[11.457s] running install
+[11.459s] running install_lib
+[11.464s] creating /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface
+[11.466s] copying /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface/gpio_interface.py -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface
+[11.468s] copying /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface/__init__.py -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface
+[11.472s] byte-compiling /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface/gpio_interface.py to gpio_interface.cpython-310.pyc
+[11.477s] byte-compiling /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface/__init__.py to __init__.cpython-310.pyc
+[11.479s] running install_data
+[11.483s] creating /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/ament_index
+[11.485s] creating /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/ament_index/resource_index
+[11.486s] creating /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/ament_index/resource_index/packages
+[11.487s] copying resource/gpio_interface -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/ament_index/resource_index/packages
+[11.488s] copying package.xml -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/gpio_interface
+[11.489s] running install_egg_info
+[11.506s] Copying build/gpio_interface/gpio_interface.egg-info to /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface-0.0.0-py3.10.egg-info
+[11.518s] running install_scripts
+[11.670s] Installing gpio_interface script to /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/gpio_interface
+[11.673s] writing list of installed files to '/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/install.log'
+[11.922s] Invoked command in '/home/jhsrobo/pcorews/src/gpio_interface' returned '0': PYTHONPATH=/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/prefix_override:/home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/gpio_interface build --build-base /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build install --record /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/install.log --single-version-externally-managed

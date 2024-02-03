@@ -1,0 +1,164 @@
+[0.000000] (-) TimerEvent: {}
+[0.003135] (gpio_interface) JobQueued: {'identifier': 'gpio_interface', 'dependencies': OrderedDict()}
+[0.003795] (gpio_interface) JobStarted: {'identifier': 'gpio_interface'}
+[0.097693] (-) TimerEvent: {}
+[0.198953] (-) TimerEvent: {}
+[0.300472] (-) TimerEvent: {}
+[0.402388] (-) TimerEvent: {}
+[0.504976] (-) TimerEvent: {}
+[0.606592] (-) TimerEvent: {}
+[0.707937] (-) TimerEvent: {}
+[0.809416] (-) TimerEvent: {}
+[0.910635] (-) TimerEvent: {}
+[1.011823] (-) TimerEvent: {}
+[1.113110] (-) TimerEvent: {}
+[1.214490] (-) TimerEvent: {}
+[1.315566] (-) TimerEvent: {}
+[1.416737] (-) TimerEvent: {}
+[1.518104] (-) TimerEvent: {}
+[1.619232] (-) TimerEvent: {}
+[1.720336] (-) TimerEvent: {}
+[1.821518] (-) TimerEvent: {}
+[1.922693] (-) TimerEvent: {}
+[2.023783] (-) TimerEvent: {}
+[2.125012] (-) TimerEvent: {}
+[2.226195] (-) TimerEvent: {}
+[2.327325] (-) TimerEvent: {}
+[2.428528] (-) TimerEvent: {}
+[2.529696] (-) TimerEvent: {}
+[2.630843] (-) TimerEvent: {}
+[2.732061] (-) TimerEvent: {}
+[2.833263] (-) TimerEvent: {}
+[2.934501] (-) TimerEvent: {}
+[3.035823] (-) TimerEvent: {}
+[3.139128] (-) TimerEvent: {}
+[3.240597] (-) TimerEvent: {}
+[3.342635] (-) TimerEvent: {}
+[3.444227] (-) TimerEvent: {}
+[3.550311] (-) TimerEvent: {}
+[3.653654] (-) TimerEvent: {}
+[3.756037] (-) TimerEvent: {}
+[3.860153] (-) TimerEvent: {}
+[3.961958] (-) TimerEvent: {}
+[4.067576] (-) TimerEvent: {}
+[4.169758] (-) TimerEvent: {}
+[4.272304] (-) TimerEvent: {}
+[4.373606] (-) TimerEvent: {}
+[4.474671] (-) TimerEvent: {}
+[4.575747] (-) TimerEvent: {}
+[4.676868] (-) TimerEvent: {}
+[4.778183] (-) TimerEvent: {}
+[4.879537] (-) TimerEvent: {}
+[4.980619] (-) TimerEvent: {}
+[5.081703] (-) TimerEvent: {}
+[5.182831] (-) TimerEvent: {}
+[5.283939] (-) TimerEvent: {}
+[5.385121] (-) TimerEvent: {}
+[5.486216] (-) TimerEvent: {}
+[5.587314] (-) TimerEvent: {}
+[5.688443] (-) TimerEvent: {}
+[5.789535] (-) TimerEvent: {}
+[5.890590] (-) TimerEvent: {}
+[5.991759] (-) TimerEvent: {}
+[6.092949] (-) TimerEvent: {}
+[6.194112] (-) TimerEvent: {}
+[6.295329] (-) TimerEvent: {}
+[6.396637] (-) TimerEvent: {}
+[6.497837] (-) TimerEvent: {}
+[6.598944] (-) TimerEvent: {}
+[6.700059] (-) TimerEvent: {}
+[6.801292] (-) TimerEvent: {}
+[6.902557] (-) TimerEvent: {}
+[7.003743] (-) TimerEvent: {}
+[7.105092] (-) TimerEvent: {}
+[7.206341] (-) TimerEvent: {}
+[7.307933] (-) TimerEvent: {}
+[7.409487] (-) TimerEvent: {}
+[7.510790] (-) TimerEvent: {}
+[7.612074] (-) TimerEvent: {}
+[7.713500] (-) TimerEvent: {}
+[7.814726] (-) TimerEvent: {}
+[7.916070] (-) TimerEvent: {}
+[8.017424] (-) TimerEvent: {}
+[8.118989] (-) TimerEvent: {}
+[8.220490] (-) TimerEvent: {}
+[8.322001] (-) TimerEvent: {}
+[8.423421] (-) TimerEvent: {}
+[8.525768] (-) TimerEvent: {}
+[8.628714] (-) TimerEvent: {}
+[8.732002] (-) TimerEvent: {}
+[8.835493] (-) TimerEvent: {}
+[8.939585] (-) TimerEvent: {}
+[8.967952] (gpio_interface) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', 'build/gpio_interface', 'build', '--build-base', '/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build', 'install', '--record', '/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/install.log', '--single-version-externally-managed'], 'cwd': '/home/jhsrobo/pcorews/src/gpio_interface', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'jhsrobo', 'SSH_CLIENT': '192.168.1.254 37340 22', 'XDG_SESSION_TYPE': 'tty', 'GIT_ASKPASS': '/home/jhsrobo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'BROWSER': '/home/jhsrobo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/bin/helpers/browser.sh', 'MOTD_SHOWN': 'pam', 'HOME': '/home/jhsrobo', 'OLDPWD': '/home/jhsrobo/pcorews/src', 'TERM_PROGRAM_VERSION': '1.85.2', 'VSCODE_IPC_HOOK_CLI': '/run/user/1000/vscode-ipc-cd66194a-e98f-4330-9cfc-bf5e715ae41a.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/home/jhsrobo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/home/jhsrobo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/node', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'COLCON_PREFIX_PATH': '/home/jhsrobo/pcorews/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'jhsrobo', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/jhsrobo/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/bin/remote-cli:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-435c0ebb49.sock', 'TERM_PROGRAM': 'vscode', 'AMENT_PREFIX_PATH': '/home/jhsrobo/pcorews/install/gpio_interface:/home/jhsrobo/pcorews/install/core:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface', 'SSH_CONNECTION': '192.168.1.254 37340 192.168.1.111 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/prefix_override:/home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages:/home/jhsrobo/pcorews/install/gpio_interface/lib/python3.10/site-packages:/home/jhsrobo/pcorews/install/core/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/jhsrobo/pcorews/install/core'}, 'shell': False}
+[9.039914] (-) TimerEvent: {}
+[9.141350] (-) TimerEvent: {}
+[9.242881] (-) TimerEvent: {}
+[9.344494] (-) TimerEvent: {}
+[9.446146] (-) TimerEvent: {}
+[9.547865] (-) TimerEvent: {}
+[9.649722] (-) TimerEvent: {}
+[9.750914] (-) TimerEvent: {}
+[9.852043] (-) TimerEvent: {}
+[9.953406] (-) TimerEvent: {}
+[10.054517] (-) TimerEvent: {}
+[10.155651] (-) TimerEvent: {}
+[10.256802] (-) TimerEvent: {}
+[10.357864] (-) TimerEvent: {}
+[10.458975] (-) TimerEvent: {}
+[10.560132] (-) TimerEvent: {}
+[10.661333] (-) TimerEvent: {}
+[10.762444] (-) TimerEvent: {}
+[10.863578] (-) TimerEvent: {}
+[10.964775] (-) TimerEvent: {}
+[11.065896] (-) TimerEvent: {}
+[11.167090] (-) TimerEvent: {}
+[11.268419] (-) TimerEvent: {}
+[11.369577] (-) TimerEvent: {}
+[11.416515] (gpio_interface) StdoutLine: {'line': b'running egg_info\n'}
+[11.420413] (gpio_interface) StdoutLine: {'line': b'creating build/gpio_interface/gpio_interface.egg-info\n'}
+[11.421793] (gpio_interface) StdoutLine: {'line': b'writing build/gpio_interface/gpio_interface.egg-info/PKG-INFO\n'}
+[11.424173] (gpio_interface) StdoutLine: {'line': b'writing dependency_links to build/gpio_interface/gpio_interface.egg-info/dependency_links.txt\n'}
+[11.425605] (gpio_interface) StdoutLine: {'line': b'writing entry points to build/gpio_interface/gpio_interface.egg-info/entry_points.txt\n'}
+[11.426905] (gpio_interface) StdoutLine: {'line': b'writing requirements to build/gpio_interface/gpio_interface.egg-info/requires.txt\n'}
+[11.428180] (gpio_interface) StdoutLine: {'line': b'writing top-level names to build/gpio_interface/gpio_interface.egg-info/top_level.txt\n'}
+[11.429925] (gpio_interface) StdoutLine: {'line': b"writing manifest file 'build/gpio_interface/gpio_interface.egg-info/SOURCES.txt'\n"}
+[11.442559] (gpio_interface) StdoutLine: {'line': b"reading manifest file 'build/gpio_interface/gpio_interface.egg-info/SOURCES.txt'\n"}
+[11.450529] (gpio_interface) StdoutLine: {'line': b"writing manifest file 'build/gpio_interface/gpio_interface.egg-info/SOURCES.txt'\n"}
+[11.451927] (gpio_interface) StdoutLine: {'line': b'running build\n'}
+[11.453390] (gpio_interface) StdoutLine: {'line': b'running build_py\n'}
+[11.455192] (gpio_interface) StdoutLine: {'line': b'creating /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build\n'}
+[11.456591] (gpio_interface) StdoutLine: {'line': b'creating /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib\n'}
+[11.457803] (gpio_interface) StdoutLine: {'line': b'creating /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface\n'}
+[11.458746] (gpio_interface) StdoutLine: {'line': b'copying gpio_interface/gpio_interface.py -> /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface\n'}
+[11.459695] (gpio_interface) StdoutLine: {'line': b'copying gpio_interface/__init__.py -> /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface\n'}
+[11.460947] (gpio_interface) StdoutLine: {'line': b'running install\n'}
+[11.462147] (gpio_interface) StdoutLine: {'line': b'running install_lib\n'}
+[11.467660] (gpio_interface) StdoutLine: {'line': b'creating /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface\n'}
+[11.468982] (gpio_interface) StdoutLine: {'line': b'copying /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface/gpio_interface.py -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface\n'}
+[11.469852] (-) TimerEvent: {}
+[11.471118] (gpio_interface) StdoutLine: {'line': b'copying /home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/build/lib/gpio_interface/__init__.py -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface\n'}
+[11.475416] (gpio_interface) StdoutLine: {'line': b'byte-compiling /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface/gpio_interface.py to gpio_interface.cpython-310.pyc\n'}
+[11.480544] (gpio_interface) StdoutLine: {'line': b'byte-compiling /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface/__init__.py to __init__.cpython-310.pyc\n'}
+[11.482487] (gpio_interface) StdoutLine: {'line': b'running install_data\n'}
+[11.486458] (gpio_interface) StdoutLine: {'line': b'creating /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/ament_index\n'}
+[11.487813] (gpio_interface) StdoutLine: {'line': b'creating /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/ament_index/resource_index\n'}
+[11.489024] (gpio_interface) StdoutLine: {'line': b'creating /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/ament_index/resource_index/packages\n'}
+[11.489873] (gpio_interface) StdoutLine: {'line': b'copying resource/gpio_interface -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/ament_index/resource_index/packages\n'}
+[11.491186] (gpio_interface) StdoutLine: {'line': b'copying package.xml -> /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/share/gpio_interface\n'}
+[11.492017] (gpio_interface) StdoutLine: {'line': b'running install_egg_info\n'}
+[11.509503] (gpio_interface) StdoutLine: {'line': b'Copying build/gpio_interface/gpio_interface.egg-info to /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/python3.10/site-packages/gpio_interface-0.0.0-py3.10.egg-info\n'}
+[11.521770] (gpio_interface) StdoutLine: {'line': b'running install_scripts\n'}
+[11.570108] (-) TimerEvent: {}
+[11.671270] (-) TimerEvent: {}
+[11.673018] (gpio_interface) StdoutLine: {'line': b'Installing gpio_interface script to /home/jhsrobo/pcorews/src/gpio_interface/install/gpio_interface/lib/gpio_interface\n'}
+[11.675975] (gpio_interface) StdoutLine: {'line': b"writing list of installed files to '/home/jhsrobo/pcorews/src/gpio_interface/build/gpio_interface/install.log'\n"}
+[11.771667] (-) TimerEvent: {}
+[11.873007] (-) TimerEvent: {}
+[11.924870] (gpio_interface) CommandEnded: {'returncode': 0}
+[11.973298] (-) TimerEvent: {}
+[12.074889] (-) TimerEvent: {}
+[12.177551] (-) TimerEvent: {}
+[12.280046] (-) TimerEvent: {}
+[12.382088] (-) TimerEvent: {}
+[12.473152] (gpio_interface) JobEnded: {'identifier': 'gpio_interface', 'rc': 0}
+[12.478188] (-) EventReactorShutdown: {}
